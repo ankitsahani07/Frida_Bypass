@@ -1,0 +1,34 @@
+{
+  "windows": [
+    {
+      "caseSensitive": true,
+      "class": "UnityEngine.Time",
+      "doCallInMainThread": false,
+      "filterByMethodName": true,
+      "filterByMethodParam": false,
+      "filterByMethodReturnType": false,
+      "filterExact": false,
+      "filteringSimple": false,
+      "id": 0,
+      "methodFilters": [
+        "set_timesca"
+      ],
+      "windowType": 1
+    },
+    {
+      "caseSensitive": true,
+      "class": "LevelDataController",
+      "doCallInMainThread": false,
+      "filterByMethodName": true,
+      "filterByMethodParam": false,
+      "filterByMethodReturnType": false,
+      "filterExact": false,
+      "filteringSimple": false,
+      "id": 0,
+      "methodFilters": [
+        "completelevel"
+      ],
+      "windowType": 1
+    }
+  ]
+}
